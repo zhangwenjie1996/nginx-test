@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "D:\WNMP\nginx-en\nginx.exe",0
